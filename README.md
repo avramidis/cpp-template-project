@@ -7,7 +7,7 @@
 
 branch | Windows | Ubuntu | macOS
 | :--- | ---: | ---: | ---: |
-| master | [![Build status](https://ci.appveyor.com/api/projects/status/1b5kmevuiem6qh78/branch/master?svg=true)](https://ci.appveyor.com/project/avramidis/cpp-template-project/branch/master) | ![Ubuntu](https://github.com/avramidis/cpp-template-project/workflows/cmake/badge.svg) | [![Build Status](https://travis-ci.org/avramidis/cpp-template-project.svg?branch=master)](https://travis-ci.org/avramidis/cpp-template-project/branches)
+| master | [![Build status](https://ci.appveyor.com/api/projects/status/1b5kmevuiem6qh78/branch/master?svg=true)](https://ci.appveyor.com/project/avramidis/cpp-template-project/branch/master) | ![Ubuntu](https://github.com/avramidis/cpp-template-project/workflows/.github/workflows/cmake.yml/badge.svg) | [![Build Status](https://travis-ci.org/avramidis/cpp-template-project.svg?branch=master)](https://travis-ci.org/avramidis/cpp-template-project/branches)
 
 ### Introduction
 This is a C++ template project. Change the project's name and the the links of the badges above.
